@@ -1,3 +1,0 @@
-This will be a site that procedurally generates maps which could be used to generate new planets for space exploration in the online game "Nation States".
-It would have a fog of war feature which means the map uncovers more and more the more the nation that landed on the planet explores it.
-It would also be pretty customizable with sliders that change the generation (how much water, resources, size, etc.).
